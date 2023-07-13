@@ -1,0 +1,14 @@
+admin-user/AdminUsers/.browserslistrc
+admin-user/AdminUsers/.angular
+admin-user/AdminUsers/.vscode
+admin-user/AdminUsers/dist
+admin-user/AdminUsers/node_modules/*
+admin-user/AdminUsers/tmp
+admin-user/AdminUsers/out-tsc
+admin-user/AdminUsers/bazel-out
+admin-user/AdminUsers/npm-debug.log
+admin-user/AdminUsers/yarn-error.log
+
+docker-vol/*
+
+server/node_modules/*
